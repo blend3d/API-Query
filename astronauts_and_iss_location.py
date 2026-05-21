@@ -1,5 +1,6 @@
 # -----------------------------
 # Created with CoPilot Assistance 5/21/2026
+# Pulls API json data from: http://open-notify.org/Open-Notify-API/
 # -----------------------------
 import network
 import urequests
