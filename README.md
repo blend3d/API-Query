@@ -9,4 +9,6 @@
   
 4. Once this is completed save the file. navigate to the lib folder on your pico and upload your secrets.py file.
 
-5. Run the astronauts_and_iss_location.py 
+5. Run the astronauts_and_iss_location.py
+
+6. Note: this project is pulling API json data from: http://open-notify.org/Open-Notify-API/
